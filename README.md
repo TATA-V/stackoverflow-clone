@@ -16,6 +16,8 @@
 
 ---
 
+</br>
+
 ## 👩‍💻 맡은 역할
 
 - 초기 stackoverflow 피그마 클론
@@ -24,6 +26,8 @@
 - 닉네임 수정 기능 및 프로필 페이지 구현
 
 ![스택오버플로우 움짤](https://user-images.githubusercontent.com/113578923/234889377-056e7e8f-35d6-4a5c-b466-5bc109277ec5.gif)
+
+</br>
 
 ---
 
@@ -35,13 +39,15 @@
 | :--------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | <a href="https://github.com/leekoby" target="_blank">leekoby</a> | <a href="https://github.com/Joe-wonho " target="_blank">Joe-wonho </a> | <a href="https://github.com/tata-v " target="_blank">tata-v</a> | <a href="https://github.com/seunghyun711" target="_blank">seunghyun711 </a> | <a href="https://github.com/skawlgns1" target="_blank">skawlgns1 </a> | <a href="https://github.com/HJKKIM" target="_blank">HJKKIM </a> |
 
+</br>
+
 ---
 
 </br>
 
 ## 🎤 프로젝트 소개
 
-<a href ="http://e1i5.s3-website.ap-northeast-2.amazonaws.com/" target = "_blank" ><img src = "./client/src/assets/stack-logo.svg"/> 배포 링크 </a>, <a href="https://github.com/codestates-seb/seb43_pre_001" target="_blank">원본 레파지토리</a>
+## 👉 <a href ="http://e1i5.s3-website.ap-northeast-2.amazonaws.com/" target = "_blank" > 배포 링크 </a>, <a href="https://github.com/codestates-seb/seb43_pre_001" target="_blank">원본 레파지토리</a>
 
 ## 주기능
 
@@ -53,6 +59,8 @@
 </br>
 
 ---
+
+</br>
 
 ## 🖌 툴소개
 
@@ -79,13 +87,9 @@
 
 ---
 
-## 🌐 API 명세서
-
 </br>
 
-<a href = "https://pre-project.gitbook.io/pre-project-stack-overflow/" target = "_blank"> API 명세서 </a>
-
----
+## 🌐 API 명세서 👉 <a href = "https://pre-project.gitbook.io/pre-project-stack-overflow/" target = "_blank"> API 명세서 링크 </a>
 
 </br>
 
@@ -93,7 +97,11 @@
 
 ![DB_Diagram](https://cdn.discordapp.com/attachments/1095220334778667018/1101036568539566111/Pre-ProjectStackOverFlow.png)
 
+</br>
+
 ---
+
+</br>
 
 ## 🐈‍⬛ Git
 
