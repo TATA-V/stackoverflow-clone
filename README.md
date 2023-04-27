@@ -2,7 +2,7 @@
 
 ## Stack Overflow Clone
 
-<img src="https://camo.githubusercontent.com/dcc135bf022f0d6dfb72e0d8616d1d4db4a6c6c0aed4261baccd27e6cb722c1b/68747470733a2f2f636f6e74656e742e7072657373706167652e636f6d2f75706c6f6164732f323635382f63313932305f6c6f676f2d737461636b6f766572666c6f772d62616e6e65722e6a70673f3634323234" width="600px" height="200px" alt="스택오버플로우 이미지"></img><br/>
+<img width="166" alt="스크린샷 2023-04-27 오후 11 16 21" src="https://user-images.githubusercontent.com/113578923/234889815-613ed1f9-dbc4-43b9-95f9-04621e7826a2.png">
 
 #### **팀 이름 : E1I5**
 
@@ -16,19 +16,32 @@
 
 ---
 
+## 👩‍💻 맡은 역할
+
+- 초기 stackoverflow 피그마 클론
+- 헤더, 푸터 컴포넌트 제작
+- 로그인, 회원가입, 로그아웃 기능 및 페이지 구현
+- 닉네임 수정 기능 및 프로필 페이지 구현
+
+![스택오버플로우 움짤](https://user-images.githubusercontent.com/113578923/234889377-056e7e8f-35d6-4a5c-b466-5bc109277ec5.gif)
+
+---
+
 </br>
 
-# 팀소개
+## ⛳️ 팀소개
 
 |                              이호승                              |                                 조원호                                 |                             최현아                              |                                   홍승현                                    |                                남지훈                                 |                             김현지A                             |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | <a href="https://github.com/leekoby" target="_blank">leekoby</a> | <a href="https://github.com/Joe-wonho " target="_blank">Joe-wonho </a> | <a href="https://github.com/tata-v " target="_blank">tata-v</a> | <a href="https://github.com/seunghyun711" target="_blank">seunghyun711 </a> | <a href="https://github.com/skawlgns1" target="_blank">skawlgns1 </a> | <a href="https://github.com/HJKKIM" target="_blank">HJKKIM </a> |
 
+---
+
 </br>
 
-# 프로젝트 소개
+## 🎤 프로젝트 소개
 
-<a href ="http://e1i5.s3-website.ap-northeast-2.amazonaws.com/" target = "_blank" ><img src = "./client/src/assets/stack-logo.svg"/> 배포 링크 </a>
+<a href ="http://e1i5.s3-website.ap-northeast-2.amazonaws.com/" target = "_blank" ><img src = "./client/src/assets/stack-logo.svg"/> 배포 링크 </a>, <a href="https://github.com/codestates-seb/seb43_pre_001" target="_blank">원본 레파지토리</a>
 
 ## 주기능
 
@@ -41,7 +54,7 @@
 
 ---
 
-# 툴소개
+## 🖌 툴소개
 
 </br>
 
@@ -66,7 +79,7 @@
 
 ---
 
-## API 명세서
+## 🌐 API 명세서
 
 </br>
 
@@ -76,13 +89,13 @@
 
 </br>
 
-## DB Diagram (사진)
+## 🎞 DB Diagram (사진)
 
 ![DB_Diagram](https://cdn.discordapp.com/attachments/1095220334778667018/1101036568539566111/Pre-ProjectStackOverFlow.png)
 
 ---
 
-## 📎Git
+## 🐈‍⬛ Git
 
 </br>
 
